@@ -1,0 +1,26 @@
+-- Check for working C compiler: /Users/gamehaus/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+-- Check for working C compiler: /Users/gamehaus/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /Users/gamehaus/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++
+-- Check for working CXX compiler: /Users/gamehaus/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- using toolchain file:/Users/gamehaus/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-- PROJECT_NAME:tasdkTest
+-- PROJECT_SOURCE_DIR:/Users/gamehaus/Documents/cocos/project/tasdkTest
+-- COCOS2DX_ROOT_PATH:/Users/gamehaus/Documents/cocos/project/tasdkTest/cocos2d
+-- CMAKE_MODULE_PATH:/Users/gamehaus/Documents/cocos/project/tasdkTest/cocos2d/cmake/Modules/
+-- PROJECT_BINARY_DIR:/Users/gamehaus/Documents/cocos/project/tasdkTest/proj.android/app/.cxx/cmake/debug/armeabi-v7a
+-- ENGINE_BINARY_PATH:/Users/gamehaus/Documents/cocos/project/tasdkTest/proj.android/app/.cxx/cmake/debug/armeabi-v7a/engine
+-- PYTHON_PATH:/usr/local/bin/python2
+-- COCOS_COMMAND_PATH:COCOS_COMMAND-NOTFOUND
+-- HOST_SYSTEM:Darwin
+-- CMAKE_GENERATOR: Ninja
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/gamehaus/Documents/cocos/project/tasdkTest/proj.android/app/.cxx/cmake/debug/armeabi-v7a
